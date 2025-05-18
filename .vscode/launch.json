@@ -1,0 +1,13 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Deploy to Azure App Service",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/gmail_spam_agent_streamlit.py",
+            "console": "integratedTerminal",
+            "justMyCode": true
+        }
+    ]
+} 
